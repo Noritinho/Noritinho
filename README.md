@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning .NET and Node
+# 💫 Backend
+🌱 .NET and Node
 
 
 ## 🌐 Socials:
